@@ -50,6 +50,8 @@ Explanation: Only products 1 and 3 are both low fat and recyclable.
 </pre>
 ---
 <pre>
+ Question 2
+ 
  Table: Customer
 
 +-------------+---------+
